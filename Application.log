@@ -1,0 +1,14 @@
+2023-03-05 18:15:35  [TC1] (main:) Login sucessfully for the TC1
+2023-03-11 17:45:41  [TC1] (main:) Login sucessfully for the TC1
+2023-03-11 17:48:06  [TC1] (main:) Login sucessfully for the TC1
+2023-03-11 17:49:25  [TC1] (main:) Login sucessfully for the TC1
+2023-03-11 17:51:02  [TC1] (main:) Login sucessfully for the TC1
+2023-03-11 18:03:25  [TestCase2] (main:) Assertion is passed
+2023-03-11 18:05:13  [TestCase2] (main:) Assertion is passed
+2023-03-11 18:07:05  [TestCase2] (main:) Assertion is passed
+2023-03-11 18:08:59  [TestCase2] (main:) Assertion is passed
+2023-03-11 18:10:58  [TestCase2] (main:) Assertion is passed
+2023-03-11 18:13:16  [TestCase2] (main:) Assertion is Failed
+2023-03-13 09:31:14  [TC1] (main:) Login sucessfully for the TC1
+2023-03-13 09:31:36  [TestCase2] (main:) Assertion is Failed
+2023-03-13 09:34:15  [TC1] (main:) Login sucessfully for the TC1
